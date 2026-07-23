@@ -1,0 +1,1665 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Trainer Income – 6 Secret AI Platforms That Still Pay Nigerians in Dollars</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1501307445070567');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1501307445070567&ev=PageView&noscript=1"/></noscript>
+<style>
+:root {
+--bg-primary: #FFFFFF;
+--bg-secondary: #F5F5F7;
+--text-primary: #1D1D1F;
+--text-secondary: #6E6E73;
+--text-tertiary: #86868B;
+--border-light: #E5E5E7;
+--border-lighter: #F0F0F2;
+--accent-green: #34C759;
+--accent-green-soft: #E8F5E9;
+--cta-black: #1D1D1F;
+--cta-hover: #2D2D2F;
+--redacted: #1D1D1F;
+--radius-sm: 12px;
+--radius-md: 16px;
+--radius-lg: 20px;
+--radius-xl: 24px;
+--shadow-sm: 0 1px 3px rgba(0,0,0,0.04);
+--shadow-md: 0 4px 12px rgba(0,0,0,0.06);
+--shadow-lg: 0 8px 24px rgba(0,0,0,0.08);
+--transition: all 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+--max-width: 960px;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+font-weight: 400;
+color: var(--text-primary);
+background: var(--bg-primary);
+line-height: 1.6;
+letter-spacing: -0.01em;
+overflow-x: hidden;
+-webkit-font-smoothing: antialiased;
+}
+.urgency-bar {
+position: fixed;
+top: 0; left: 0; right: 0;
+z-index: 1000;
+background: var(--text-primary);
+color: var(--bg-primary);
+padding: 10px 20px;
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 24px;
+font-size: 13px;
+font-weight: 500;
+letter-spacing: 0.02em;
+transition: transform 0.3s ease;
+}
+.urgency-bar.hidden { transform: translateY(-100%); }
+.urgency-bar .timer {
+display: flex;
+align-items: center;
+gap: 6px;
+font-variant-numeric: tabular-nums;
+}
+.urgency-bar .timer-value {
+background: rgba(255,255,255,0.12);
+padding: 4px 10px;
+border-radius: 6px;
+font-weight: 600;
+font-size: 14px;
+letter-spacing: 0.04em;
+}
+.urgency-bar .slots {
+display: flex;
+align-items: center;
+gap: 6px;
+}
+.urgency-bar .slot-count { color: #FF453A; font-weight: 600; }
+.urgency-bar .dot {
+width: 6px; height: 6px;
+background: #FF453A;
+border-radius: 50%;
+animation: pulse-dot 1.5s ease-in-out infinite;
+}
+@keyframes pulse-dot {
+0%, 100% { opacity: 1; transform: scale(1); }
+50% { opacity: 0.5; transform: scale(0.8); }
+}
+.main-content { padding-top: 44px; }
+section {
+padding: 80px 24px;
+max-width: var(--max-width);
+margin: 0 auto;
+}
+section.alt-bg {
+background: var(--bg-secondary);
+max-width: 100%;
+padding: 80px 24px;
+}
+section.alt-bg .section-inner {
+max-width: var(--max-width);
+margin: 0 auto;
+}
+.hero {
+text-align: center;
+padding: 100px 24px 80px;
+}
+.hero-badge {
+display: inline-flex;
+align-items: center;
+gap: 8px;
+background: var(--bg-secondary);
+border: 1px solid var(--border-light);
+padding: 8px 20px;
+border-radius: 100px;
+font-size: 13px;
+font-weight: 500;
+color: var(--text-secondary);
+margin-bottom: 32px;
+letter-spacing: 0.02em;
+}
+.hero-badge .dot-green {
+width: 6px; height: 6px;
+background: var(--accent-green);
+border-radius: 50%;
+}
+.hero h1 {
+font-size: clamp(36px, 5vw, 56px);
+font-weight: 300;
+line-height: 1.1;
+letter-spacing: -0.03em;
+margin-bottom: 20px;
+color: var(--text-primary);
+}
+.hero h1 span { font-weight: 600; }
+.hero-subtitle {
+font-size: clamp(16px, 2vw, 20px);
+font-weight: 300;
+color: var(--text-secondary);
+max-width: 560px;
+margin: 0 auto 40px;
+line-height: 1.6;
+}
+.hero-price { margin-bottom: 32px; }
+.hero-price .old-price {
+font-size: 20px;
+color: var(--text-tertiary);
+text-decoration: line-through;
+margin-bottom: 4px;
+}
+.hero-price .new-price {
+font-size: clamp(40px, 5vw, 56px);
+font-weight: 300;
+color: var(--text-primary);
+letter-spacing: -0.02em;
+}
+.hero-price .price-note {
+font-size: 14px;
+color: var(--text-tertiary);
+margin-top: 4px;
+}
+.btn-primary {
+display: inline-flex;
+align-items: center;
+gap: 8px;
+background: var(--cta-black);
+color: #fff;
+padding: 18px 40px;
+border-radius: 100px;
+font-size: 16px;
+font-weight: 500;
+text-decoration: none;
+border: none;
+cursor: pointer;
+transition: var(--transition);
+letter-spacing: 0.01em;
+}
+.btn-primary:hover {
+background: var(--cta-hover);
+transform: translateY(-2px);
+box-shadow: var(--shadow-md);
+}
+.hero-learn-more {
+display: inline-flex;
+align-items: center;
+gap: 6px;
+margin-top: 32px;
+font-size: 14px;
+color: var(--text-secondary);
+text-decoration: none;
+font-weight: 400;
+transition: var(--transition);
+}
+.hero-learn-more:hover { color: var(--text-primary); }
+.hero-learn-more svg { animation: bounce-down 2s ease-in-out infinite; }
+@keyframes bounce-down {
+0%, 100% { transform: translateY(0); }
+50% { transform: translateY(4px); }
+}
+.section-label {
+font-size: 12px;
+font-weight: 600;
+text-transform: uppercase;
+letter-spacing: 0.12em;
+color: var(--accent-green);
+margin-bottom: 12px;
+}
+.section-title {
+font-size: clamp(28px, 3.5vw, 40px);
+font-weight: 300;
+line-height: 1.2;
+letter-spacing: -0.02em;
+margin-bottom: 16px;
+}
+.section-desc {
+font-size: 17px;
+font-weight: 300;
+color: var(--text-secondary);
+max-width: 600px;
+line-height: 1.7;
+}
+.problem-content {
+display: grid;
+grid-template-columns: 1fr 1fr;
+gap: 48px;
+align-items: center;
+margin-top: 48px;
+}
+.problem-text p {
+font-size: 16px;
+color: var(--text-secondary);
+line-height: 1.8;
+margin-bottom: 16px;
+}
+.problem-text p strong {
+color: var(--text-primary);
+font-weight: 500;
+}
+.problem-visual {
+background: var(--bg-primary);
+border: 1px solid var(--border-light);
+border-radius: var(--radius-xl);
+padding: 40px;
+box-shadow: var(--shadow-sm);
+}
+.problem-visual .alert-box {
+display: flex;
+align-items: flex-start;
+gap: 16px;
+padding: 20px;
+background: #FFF5F5;
+border-radius: var(--radius-md);
+border-left: 3px solid #FF453A;
+}
+.problem-visual .alert-icon {
+width: 36px; height: 36px;
+background: #FF453A;
+border-radius: 50%;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-shrink: 0;
+}
+.problem-visual .alert-icon svg {
+width: 18px; height: 18px;
+stroke: #fff;
+}
+.problem-visual .alert-text {
+font-size: 14px;
+color: var(--text-secondary);
+line-height: 1.6;
+}
+.problem-visual .alert-text strong {
+color: var(--text-primary);
+display: block;
+margin-bottom: 4px;
+}
+.platforms-grid {
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+gap: 20px;
+margin-top: 48px;
+}
+.platform-card {
+background: var(--bg-primary);
+border: 1px solid var(--border-light);
+border-radius: var(--radius-xl);
+padding: 32px 24px;
+text-align: center;
+transition: var(--transition);
+box-shadow: var(--shadow-sm);
+}
+.platform-card:hover {
+transform: translateY(-4px);
+box-shadow: var(--shadow-md);
+border-color: var(--border-lighter);
+}
+.platform-number {
+font-size: 13px;
+font-weight: 600;
+color: var(--text-tertiary);
+letter-spacing: 0.08em;
+text-transform: uppercase;
+margin-bottom: 16px;
+}
+.platform-lock {
+width: 48px; height: 48px;
+background: var(--bg-secondary);
+border-radius: 50%;
+display: flex;
+align-items: center;
+justify-content: center;
+margin: 0 auto 16px;
+}
+.platform-lock svg {
+width: 20px; height: 20px;
+stroke: var(--text-secondary);
+}
+.platform-redacted {
+height: 28px;
+border-radius: 6px;
+margin-bottom: 12px;
+background: linear-gradient(90deg, var(--redacted) 0%, #3D3D3F 25%, var(--redacted) 50%, #3D3D3F 75%, var(--redacted) 100%);
+background-size: 200% 100%;
+animation: shimmer 2.5s ease-in-out infinite;
+}
+.platform-redacted.wide { width: 85%; margin-left: auto; margin-right: auto; }
+.platform-redacted.medium { width: 70%; margin-left: auto; margin-right: auto; }
+.platform-redacted.narrow { width: 55%; margin-left: auto; margin-right: auto; }
+@keyframes shimmer {
+0% { background-position: 200% 0; }
+100% { background-position: -200% 0; }
+}
+.platform-tag {
+display: inline-flex;
+align-items: center;
+gap: 6px;
+font-size: 13px;
+font-weight: 500;
+color: var(--accent-green);
+background: var(--accent-green-soft);
+padding: 6px 14px;
+border-radius: 100px;
+}
+.platforms-note {
+text-align: center;
+margin-top: 32px;
+font-size: 14px;
+color: var(--text-tertiary);
+font-style: italic;
+}
+.stats-row {
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+gap: 20px;
+margin-top: 48px;
+}
+.stat-card {
+background: var(--bg-primary);
+border: 1px solid var(--border-light);
+border-radius: var(--radius-xl);
+padding: 36px 24px;
+text-align: center;
+transition: var(--transition);
+box-shadow: var(--shadow-sm);
+}
+.stat-card:hover {
+box-shadow: var(--shadow-md);
+transform: translateY(-2px);
+}
+.stat-value {
+font-size: clamp(28px, 3vw, 36px);
+font-weight: 300;
+color: var(--text-primary);
+letter-spacing: -0.02em;
+margin-bottom: 6px;
+}
+.stat-label {
+font-size: 14px;
+color: var(--text-secondary);
+font-weight: 400;
+}
+.deliverables-grid {
+display: grid;
+grid-template-columns: 1fr 1fr;
+gap: 16px;
+margin-top: 48px;
+}
+.deliverable-item {
+display: flex;
+align-items: flex-start;
+gap: 16px;
+padding: 20px 24px;
+background: var(--bg-primary);
+border: 1px solid var(--border-light);
+border-radius: var(--radius-lg);
+transition: var(--transition);
+}
+.deliverable-item:hover {
+border-color: var(--border-lighter);
+box-shadow: var(--shadow-sm);
+}
+.deliverable-check {
+width: 28px; height: 28px;
+background: var(--accent-green-soft);
+border-radius: 50%;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-shrink: 0;
+margin-top: 2px;
+}
+.deliverable-check svg {
+width: 14px; height: 14px;
+stroke: var(--accent-green);
+stroke-width: 2.5;
+}
+.deliverable-text h4 {
+font-size: 15px;
+font-weight: 500;
+color: var(--text-primary);
+margin-bottom: 4px;
+}
+.deliverable-text p {
+font-size: 14px;
+color: var(--text-secondary);
+line-height: 1.5;
+}
+.testimonials-grid {
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+gap: 20px;
+margin-top: 48px;
+}
+.testimonial-card {
+background: var(--bg-primary);
+border: 1px solid var(--border-light);
+border-radius: var(--radius-xl);
+padding: 28px;
+transition: var(--transition);
+box-shadow: var(--shadow-sm);
+}
+.testimonial-card:hover {
+box-shadow: var(--shadow-md);
+transform: translateY(-2px);
+}
+.testimonial-header {
+display: flex;
+align-items: center;
+gap: 12px;
+margin-bottom: 16px;
+}
+.testimonial-avatar {
+width: 44px; height: 44px;
+border-radius: 50%;
+background: linear-gradient(135deg, #E8E8EA, #D0D0D4);
+display: flex;
+align-items: center;
+justify-content: center;
+font-size: 15px;
+font-weight: 600;
+color: var(--text-primary);
+}
+.testimonial-meta h4 {
+font-size: 15px;
+font-weight: 500;
+color: var(--text-primary);
+}
+.testimonial-meta span {
+font-size: 13px;
+color: var(--text-tertiary);
+}
+.testimonial-stars {
+display: flex;
+gap: 3px;
+margin-bottom: 12px;
+}
+.testimonial-stars svg {
+width: 14px; height: 14px;
+fill: #FFB800;
+}
+.testimonial-quote {
+font-size: 14px;
+color: var(--text-secondary);
+line-height: 1.7;
+font-style: italic;
+}
+.guarantee-box {
+background: var(--bg-primary);
+border: 1px solid var(--border-light);
+border-radius: var(--radius-xl);
+padding: 48px 40px;
+text-align: center;
+max-width: 640px;
+margin: 0 auto;
+box-shadow: var(--shadow-sm);
+}
+.guarantee-icon {
+width: 64px; height: 64px;
+background: var(--accent-green-soft);
+border-radius: 50%;
+display: flex;
+align-items: center;
+justify-content: center;
+margin: 0 auto 24px;
+}
+.guarantee-icon svg {
+width: 28px; height: 28px;
+stroke: var(--accent-green);
+stroke-width: 2;
+}
+.guarantee-box h3 {
+font-size: 24px;
+font-weight: 300;
+margin-bottom: 12px;
+}
+.guarantee-box p {
+font-size: 16px;
+color: var(--text-secondary);
+line-height: 1.7;
+max-width: 480px;
+margin: 0 auto;
+}
+.final-cta-box {
+background: var(--bg-primary);
+border: 1px solid var(--border-light);
+border-radius: var(--radius-xl);
+padding: 56px 40px;
+text-align: center;
+max-width: 640px;
+margin: 0 auto;
+box-shadow: var(--shadow-lg);
+}
+.final-cta-box .timer-large {
+font-size: clamp(36px, 4vw, 48px);
+font-weight: 300;
+letter-spacing: -0.02em;
+margin-bottom: 8px;
+font-variant-numeric: tabular-nums;
+}
+.final-cta-box .timer-label {
+font-size: 14px;
+color: var(--text-tertiary);
+margin-bottom: 28px;
+}
+.final-cta-box .cta-price .old {
+font-size: 18px;
+color: var(--text-tertiary);
+text-decoration: line-through;
+}
+.final-cta-box .cta-price .new {
+font-size: clamp(36px, 4vw, 48px);
+font-weight: 300;
+margin: 4px 0;
+}
+.final-cta-box .cta-slots {
+font-size: 14px;
+color: var(--text-secondary);
+margin-bottom: 28px;
+}
+.final-cta-box .cta-slots span {
+color: #FF453A;
+font-weight: 600;
+}
+.final-cta-box .btn-primary {
+padding: 20px 48px;
+font-size: 17px;
+}
+.final-cta-box .guarantee-text {
+margin-top: 20px;
+font-size: 13px;
+color: var(--text-tertiary);
+}
+.faq-list {
+max-width: 720px;
+margin: 48px auto 0;
+}
+.faq-item { border-bottom: 1px solid var(--border-light); }
+.faq-question {
+width: 100%;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 24px 0;
+background: none;
+border: none;
+font-size: 16px;
+font-weight: 500;
+color: var(--text-primary);
+cursor: pointer;
+text-align: left;
+transition: var(--transition);
+}
+.faq-question:hover { color: var(--text-secondary); }
+.faq-question svg {
+width: 20px; height: 20px;
+stroke: var(--text-tertiary);
+stroke-width: 2;
+transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+flex-shrink: 0;
+margin-left: 16px;
+}
+.faq-item.open .faq-question svg { transform: rotate(180deg); }
+.faq-answer {
+max-height: 0;
+overflow: hidden;
+transition: max-height 0.4s cubic-bezier(0.4, 0, 0.2, 1), padding 0.4s ease;
+}
+.faq-item.open .faq-answer {
+max-height: 300px;
+padding-bottom: 24px;
+}
+.faq-answer p {
+font-size: 15px;
+color: var(--text-secondary);
+line-height: 1.7;
+}
+footer {
+text-align: center;
+padding: 48px 24px;
+border-top: 1px solid var(--border-lighter);
+}
+footer p {
+font-size: 13px;
+color: var(--text-tertiary);
+}
+footer a {
+color: var(--text-secondary);
+text-decoration: none;
+transition: var(--transition);
+}
+footer a:hover { color: var(--text-primary); }
+.toast-container {
+position: fixed;
+bottom: 24px;
+left: 24px;
+z-index: 999;
+display: flex;
+flex-direction: column;
+gap: 10px;
+pointer-events: none;
+}
+.toast {
+background: var(--bg-primary);
+border: 1px solid var(--border-light);
+border-radius: var(--radius-md);
+padding: 14px 20px;
+box-shadow: var(--shadow-md);
+display: flex;
+align-items: center;
+gap: 12px;
+font-size: 14px;
+color: var(--text-primary);
+animation: toast-in 0.4s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+max-width: 320px;
+}
+.toast.removing {
+animation: toast-out 0.4s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+}
+.toast-avatar {
+width: 32px; height: 32px;
+border-radius: 50%;
+background: linear-gradient(135deg, #E8E8EA, #D0D0D4);
+display: flex;
+align-items: center;
+justify-content: center;
+font-size: 12px;
+font-weight: 600;
+flex-shrink: 0;
+}
+.toast-text strong { font-weight: 600; }
+.toast-text span {
+color: var(--text-secondary);
+font-size: 13px;
+}
+@keyframes toast-in {
+from { opacity: 0; transform: translateX(-20px); }
+to { opacity: 1; transform: translateX(0); }
+}
+@keyframes toast-out {
+from { opacity: 1; transform: translateX(0); }
+to { opacity: 0; transform: translateX(-20px); }
+}
+.sticky-cta {
+position: fixed;
+bottom: 0; left: 0; right: 0;
+z-index: 998;
+background: rgba(255,255,255,0.92);
+backdrop-filter: blur(20px);
+-webkit-backdrop-filter: blur(20px);
+border-top: 1px solid var(--border-light);
+padding: 14px 24px;
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 20px;
+transform: translateY(100%);
+transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.sticky-cta.visible { transform: translateY(0); }
+.sticky-cta .sticky-info {
+display: flex;
+align-items: center;
+gap: 16px;
+}
+.sticky-cta .sticky-price { font-size: 20px; font-weight: 300; }
+.sticky-cta .sticky-price .old {
+font-size: 14px;
+color: var(--text-tertiary);
+text-decoration: line-through;
+margin-right: 6px;
+}
+.sticky-cta .sticky-slots {
+font-size: 13px;
+color: var(--text-secondary);
+}
+.sticky-cta .sticky-slots span {
+color: #FF453A;
+font-weight: 600;
+}
+.sticky-cta .btn-primary {
+padding: 12px 28px;
+font-size: 14px;
+}
+@media (max-width: 768px) {
+section { padding: 60px 20px; }
+.hero { padding: 80px 20px 60px; }
+.problem-content { grid-template-columns: 1fr; }
+.platforms-grid,
+.stats-row,
+.testimonials-grid { grid-template-columns: 1fr; }
+.deliverables-grid { grid-template-columns: 1fr; }
+.urgency-bar {
+flex-direction: column;
+gap: 6px;
+padding: 8px 16px;
+font-size: 12px;
+}
+.sticky-cta {
+flex-direction: column;
+gap: 10px;
+padding: 12px 16px;
+}
+.sticky-cta .sticky-info {
+flex-direction: column;
+gap: 4px;
+text-align: center;
+}
+.toast-container {
+left: 16px;
+right: 16px;
+bottom: 100px;
+}
+.toast { max-width: 100%; }
+.guarantee-box,
+.final-cta-box { padding: 36px 24px; }
+}
+@media (max-width: 480px) {
+.hero h1 { font-size: 32px; }
+.section-title { font-size: 26px; }
+.btn-primary {
+padding: 16px 32px;
+font-size: 15px;
+width: 100%;
+justify-content: center;
+}
+}
+
+/* Exit Intent Popup */
+.exit-overlay {
+position: fixed;
+inset: 0;
+z-index: 2000;
+background: rgba(0,0,0,0.45);
+backdrop-filter: blur(8px);
+-webkit-backdrop-filter: blur(8px);
+display: flex;
+align-items: center;
+justify-content: center;
+opacity: 0;
+visibility: hidden;
+transition: opacity 0.4s ease, visibility 0.4s ease;
+padding: 20px;
+}
+.exit-overlay.active {
+opacity: 1;
+visibility: visible;
+}
+.exit-popup {
+background: var(--bg-primary);
+border: 1px solid var(--border-light);
+border-radius: var(--radius-xl);
+padding: 48px 40px;
+max-width: 480px;
+width: 100%;
+text-align: center;
+box-shadow: var(--shadow-lg);
+position: relative;
+transform: translateY(20px) scale(0.96);
+transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.exit-overlay.active .exit-popup {
+transform: translateY(0) scale(1);
+}
+.exit-close {
+position: absolute;
+top: 16px;
+right: 20px;
+background: none;
+border: none;
+font-size: 28px;
+color: var(--text-tertiary);
+cursor: pointer;
+line-height: 1;
+padding: 0;
+width: 32px;
+height: 32px;
+display: flex;
+align-items: center;
+justify-content: center;
+border-radius: 50%;
+transition: var(--transition);
+}
+.exit-close:hover {
+background: var(--bg-secondary);
+color: var(--text-primary);
+}
+.exit-icon {
+width: 56px;
+height: 56px;
+background: var(--accent-green-soft);
+border-radius: 50%;
+display: flex;
+align-items: center;
+justify-content: center;
+margin: 0 auto 20px;
+}
+.exit-icon svg {
+stroke: var(--accent-green);
+}
+.exit-popup h3 {
+font-size: 22px;
+font-weight: 300;
+margin-bottom: 12px;
+}
+.exit-popup p {
+font-size: 15px;
+color: var(--text-secondary);
+line-height: 1.7;
+margin-bottom: 16px;
+}
+.exit-popup p strong {
+color: var(--text-primary);
+font-weight: 600;
+}
+.exit-slots {
+font-size: 14px;
+color: var(--text-secondary);
+margin-bottom: 24px;
+}
+.exit-slots span {
+color: #FF453A;
+font-weight: 600;
+}
+.exit-popup .btn-primary {
+width: 100%;
+justify-content: center;
+margin-bottom: 12px;
+}
+.exit-guarantee {
+font-size: 13px !important;
+color: var(--text-tertiary) !important;
+margin-bottom: 0 !important;
+}
+@media (max-width: 480px) {
+.exit-popup {
+padding: 36px 24px;
+}
+}
+
+
+/* Stats Bar */
+.stats-bar {
+background: var(--bg-primary);
+border-bottom: 1px solid var(--border-lighter);
+padding: 20px 24px;
+}
+.stats-bar-inner {
+max-width: var(--max-width);
+margin: 0 auto;
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 0;
+}
+.stat-bar-item {
+text-align: center;
+padding: 0 32px;
+}
+.stat-bar-value {
+font-size: 20px;
+font-weight: 600;
+color: var(--text-primary);
+letter-spacing: -0.02em;
+line-height: 1.2;
+}
+.stat-bar-label {
+font-size: 12px;
+color: var(--text-secondary);
+font-weight: 400;
+margin-top: 2px;
+}
+.stat-bar-divider {
+width: 1px;
+height: 32px;
+background: var(--border-light);
+}
+@media (max-width: 640px) {
+.stats-bar-inner {
+flex-wrap: wrap;
+gap: 16px;
+}
+.stat-bar-item {
+padding: 0 16px;
+flex: 1 1 40%;
+}
+.stat-bar-divider {
+display: none;
+}
+.stat-bar-divider:nth-of-type(2) {
+display: block;
+}
+}
+
+/* Payment Proof Section */
+.payment-grid {
+display: grid;
+grid-template-columns: repeat(2, 1fr);
+gap: 20px;
+margin-top: 48px;
+}
+.payment-card {
+position: relative;
+border-radius: var(--radius-xl);
+overflow: hidden;
+background: var(--bg-secondary);
+border: 1px solid var(--border-light);
+box-shadow: var(--shadow-sm);
+transition: var(--transition);
+}
+.payment-card:hover {
+box-shadow: var(--shadow-md);
+transform: translateY(-4px);
+}
+.payment-card img {
+width: 100%;
+height: auto;
+display: block;
+object-fit: cover;
+}
+.payment-overlay {
+position: absolute;
+bottom: 0;
+left: 0;
+right: 0;
+padding: 20px;
+background: linear-gradient(to top, rgba(0,0,0,0.7), transparent);
+}
+.payment-badge {
+display: inline-block;
+background: var(--accent-green);
+color: #fff;
+font-size: 13px;
+font-weight: 600;
+padding: 6px 14px;
+border-radius: 100px;
+}
+.payment-note {
+text-align: center;
+margin-top: 32px;
+font-size: 13px;
+color: var(--text-tertiary);
+font-style: italic;
+}
+@media (max-width: 640px) {
+.payment-grid {
+grid-template-columns: 1fr;
+}
+}
+
+</style>
+<meta property="og:title" content="AI Trainer Income — 6 Secret AI Platforms That Still Pay Nigerians in Dollars">
+<meta property="og:description" content="Discover 6 hidden, high-paying AI training platforms that accept Nigerian workers. One-time payment of ₦10,000. Lifetime access.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://selar.com/bh118m874i">
+<meta property="og:image" content="">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="AI Trainer Income — 6 Secret AI Platforms That Still Pay Nigerians in Dollars">
+<meta name="twitter:description" content="Discover 6 hidden, high-paying AI training platforms that accept Nigerian workers. One-time payment of ₦10,000. Lifetime access.">
+<meta name="twitter:image" content="">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='20' fill='%231D1D1F'/%3E%3Ctext x='50' y='68' font-family='Inter,sans-serif' font-size='48' font-weight='600' fill='white' text-anchor='middle'%3EAI%3C/text%3E%3C/svg%3E">
+</head>
+<body>
+<div class="urgency-bar" id="urgencyBar">
+<div class="timer">
+<span>Offer ends in</span>
+<span class="timer-value" id="topTimer">23:59:59</span>
+</div>
+<div class="slots">
+<div class="dot"></div>
+<span>Only <span class="slot-count" id="topSlots">10</span> spots left at this price</span>
+</div>
+</div>
+
+<div class="main-content">
+
+<!-- Stats Bar -->
+<div class="stats-bar" id="statsBar">
+<div class="stats-bar-inner">
+<div class="stat-bar-item">
+<div class="stat-bar-value">$120K+</div>
+<div class="stat-bar-label">Total Student Earnings</div>
+</div>
+<div class="stat-bar-divider"></div>
+<div class="stat-bar-item">
+<div class="stat-bar-value">500+</div>
+<div class="stat-bar-label">Students Enrolled</div>
+</div>
+<div class="stat-bar-divider"></div>
+<div class="stat-bar-item">
+<div class="stat-bar-value">6</div>
+<div class="stat-bar-label">Active Platforms</div>
+</div>
+<div class="stat-bar-divider"></div>
+<div class="stat-bar-item">
+<div class="stat-bar-value">30-Day</div>
+<div class="stat-bar-label">Money-Back Guarantee</div>
+</div>
+</div>
+</div>
+
+
+<section class="hero" id="hero">
+<div class="hero-badge">
+<span class="dot-green"></span>
+Now Open for Enrollment
+</div>
+<h1>6 Secret AI Platforms<br>That Still <span>Pay Nigerians</span> in Dollars</h1>
+<p class="hero-subtitle">
+Discover the hidden, high-paying alternative AI training platforms that accept Nigerian workers — even after Outlier AI blocked access.
+</p>
+<div class="hero-price">
+<div class="old-price">₦25,000</div>
+<div class="new-price">₦10,000</div>
+<div class="price-note">One-time payment · Lifetime access</div>
+</div>
+<a href="https://selar.com/bh118m874i" class="btn-primary" id="heroCta" onclick="trackCheckout(event)">
+Get Instant Access
+<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+</a>
+<a href="#problem" class="hero-learn-more">
+Learn More
+<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+</a>
+</section>
+
+<section class="alt-bg" id="problem">
+<div class="section-inner">
+<div class="section-label">The Problem</div>
+<h2 class="section-title">Outlier AI Blocked Nigerians.<br>These 6 Platforms Didn't.</h2>
+<p class="section-desc">
+When Outlier AI restricted Nigerian accounts, thousands lost their income stream overnight. But the AI training economy is bigger than one platform.
+</p>
+<div class="problem-content">
+<div class="problem-text">
+<p><strong>Outlier AI was just the beginning.</strong> As AI companies tighten regional restrictions, many Nigerian trainers found themselves locked out of their primary income source — with no warning and no alternative.</p>
+<p>But here's what most people don't know: <strong>there are at least 6 other AI training platforms</strong> that actively recruit Nigerian workers, pay in US dollars, and have no regional blocks in place.</p>
+<p>These platforms are less crowded, easier to get accepted into, and in many cases, <strong>pay better than Outlier ever did</strong>. The only challenge? They're virtually unknown in Nigeria.</p>
+</div>
+<div class="problem-visual">
+<div class="alert-box">
+<div class="alert-icon">
+<svg viewBox="0 0 24 24" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M10.29 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+</div>
+<div class="alert-text">
+<strong>Outlier AI no longer accepts Nigerian users</strong>
+Accounts created with Nigerian details are automatically rejected or suspended. But the demand for AI trainers has never been higher.
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section id="payment-proof">
+<div class="section-label">Payment Proof</div>
+<h2 class="section-title">Real Withdrawals from<br>Real Students</h2>
+<p class="section-desc">
+These are actual payment screenshots sent by students who applied the strategies inside this course. This is what your earnings could look like.
+</p>
+<div class="payment-grid">
+<div class="payment-card">
+<img src="83AD4890-F1A0-4120-8844-55681F21A698.jpg" alt="$500 payment proof" loading="lazy">
+<div class="payment-overlay">
+<span class="payment-badge">$500 Withdrawal</span>
+</div>
+</div>
+<div class="payment-card">
+<img src="F49C280F-A2B3-4E48-9B50-7D1AD53F08B8.jpg" alt="$2,000 payment proof" loading="lazy">
+<div class="payment-overlay">
+<span class="payment-badge">$2,000 Withdrawal</span>
+</div>
+</div>
+<div class="payment-card">
+<img src="7BE8C89B-B2A8-4454-9A56-BE4660E01F54.jpg" alt="$423 balance proof" loading="lazy">
+<div class="payment-overlay">
+<span class="payment-badge">$423 Cash Balance</span>
+</div>
+</div>
+<div class="payment-card">
+<img src="E88C065F-8C71-481F-8AFF-F4F2E3BF97E6.jpg" alt="$400 payment proof" loading="lazy">
+<div class="payment-overlay">
+<span class="payment-badge">$400 Withdrawal</span>
+</div>
+</div>
+</div>
+<p class="payment-note">All screenshots are submitted by verified students. Results vary based on effort and time invested.</p>
+</section>
+
+<section id="inside">
+<div class="section-label">What's Inside</div>
+<h2 class="section-title">Everything You Need to<br>Start Earning Immediately</h2>
+<p class="section-desc">
+No fluff. No theory. Just step-by-step instructions to get accepted and start earning on all 6 platforms.
+</p>
+<div class="deliverables-grid">
+<div class="deliverable-item">
+<div class="deliverable-check">
+<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+</div>
+<div class="deliverable-text">
+<h4>Full Platform List</h4>
+<p>The exact names, URLs, and sign-up links for all 6 hidden platforms.</p>
+</div>
+</div>
+<div class="deliverable-item">
+<div class="deliverable-check">
+<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+</div>
+<div class="deliverable-text">
+<h4>Registration Guides</h4>
+<p>Step-by-step walkthroughs to get accepted on each platform the first time.</p>
+</div>
+</div>
+<div class="deliverable-item">
+<div class="deliverable-check">
+<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+</div>
+<div class="deliverable-text">
+<h4>Withdrawal Guide</h4>
+<p>How to withdraw your USD earnings to your Nigerian bank account seamlessly.</p>
+</div>
+</div>
+<div class="deliverable-item">
+<div class="deliverable-check">
+<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+</div>
+<div class="deliverable-text">
+<h4>Response Templates</h4>
+<p>Copy-paste templates for platform assessments and training tasks.</p>
+</div>
+</div>
+<div class="deliverable-item">
+<div class="deliverable-check">
+<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+</div>
+<div class="deliverable-text">
+<h4>Tax & Compliance Tips</h4>
+<p>How to handle tax forms and compliance requirements as a Nigerian worker.</p>
+</div>
+</div>
+<div class="deliverable-item">
+<div class="deliverable-check">
+<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+</div>
+<div class="deliverable-text">
+<h4>Lifetime Updates</h4>
+<p>Free access to all future platform additions and strategy updates.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="alt-bg" id="testimonials">
+<div class="section-inner">
+<div class="section-label">Testimonials</div>
+<h2 class="section-title">What Students Are Saying</h2>
+<p class="section-desc">
+Real feedback from Nigerians across the country who are already earning on these platforms.
+</p>
+<div class="testimonials-grid">
+<div class="testimonial-card">
+<div class="testimonial-header">
+<div class="testimonial-avatar">TO</div>
+<div class="testimonial-meta">
+<h4>Titi O.</h4>
+<span>Lagos</span>
+</div>
+</div>
+<div class="testimonial-stars">
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+</div>
+<p class="testimonial-quote">"I was devastated when Outlier blocked my account. This course showed me 3 new platforms within 48 hours. I am already earning again and more than before."</p>
+</div>
+<div class="testimonial-card">
+<div class="testimonial-header">
+<div class="testimonial-avatar">AA</div>
+<div class="testimonial-meta">
+<h4>Alimi A.</h4>
+<span>Kano</span>
+</div>
+</div>
+<div class="testimonial-stars">
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+</div>
+<p class="testimonial-quote">"The registration guides alone are worth 10x the price. I got accepted to two platforms in one week. The withdrawal guide saved me hours of confusion."</p>
+</div>
+<div class="testimonial-card">
+<div class="testimonial-header">
+<div class="testimonial-avatar">CN</div>
+<div class="testimonial-meta">
+<h4>Chinedu N.</h4>
+<span>Enugu</span>
+</div>
+</div>
+<div class="testimonial-stars">
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+</div>
+<p class="testimonial-quote">"I never knew these platforms existed. Within two weeks of joining Platform 3, I made my first $400. The course is a goldmine for anyone serious about AI training income."</p>
+</div>
+<div class="testimonial-card">
+<div class="testimonial-header">
+<div class="testimonial-avatar">FO</div>
+<div class="testimonial-meta">
+<h4>Fatima O.</h4>
+<span>Abuja</span>
+</div>
+</div>
+<div class="testimonial-stars">
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+</div>
+<p class="testimonial-quote">"The templates are incredibly helpful. I used them for my assessment tasks and passed on my first try on two different platforms. Best investment I have made this year."</p>
+</div>
+<div class="testimonial-card">
+<div class="testimonial-header">
+<div class="testimonial-avatar">DA</div>
+<div class="testimonial-meta">
+<h4>David A.</h4>
+<span>Ibadan</span>
+</div>
+</div>
+<div class="testimonial-stars">
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+</div>
+<p class="testimonial-quote">"I was skeptical at first, but the platforms are real and they actually pay. Made $900 in my second month. The withdrawal process to my Nigerian bank was smooth thanks to the guide."</p>
+</div>
+<div class="testimonial-card">
+<div class="testimonial-header">
+<div class="testimonial-avatar">BE</div>
+<div class="testimonial-meta">
+<h4>Blessing E.</h4>
+<span>Port Harcourt</span>
+</div>
+</div>
+<div class="testimonial-stars">
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+<svg viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+</div>
+<p class="testimonial-quote">"This course changed everything for me. I now work on 4 platforms simultaneously and my income is more stable than ever. The lifetime updates are a huge bonus."</p>
+</div>
+</div>
+</div>
+</section>
+
+<section id="guarantee">
+<div class="guarantee-box">
+<div class="guarantee-icon">
+<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+</div>
+<h3>30-Day Money-Back Guarantee</h3>
+<p>
+Try the course risk-free for 30 days. If you do not find value in the platform list, guides, and templates — or if you simply change your mind — email us for a full, no-questions-asked refund. Your investment is 100% protected.
+</p>
+</div>
+</section>
+
+<section class="alt-bg" id="final-cta">
+<div class="section-inner">
+<div class="final-cta-box">
+<div class="timer-large" id="finalTimer">23:59:59</div>
+<div class="timer-label">Offer expires when timer hits zero</div>
+<div class="cta-price">
+<span class="old">₦25,000</span>
+<div class="new">₦10,000</div>
+</div>
+<div class="cta-slots">
+Only <span id="finalSlots">10</span> spots remaining at this price
+</div>
+<a href="https://selar.com/bh118m874i" class="btn-primary" id="finalCta" onclick="trackCheckout(event)">
+Get Instant Access for ₦10,000
+<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+</a>
+<p class="guarantee-text">30-day money-back guarantee · Instant access · Lifetime updates</p>
+</div>
+</div>
+</section>
+
+<section id="faq">
+<div class="section-label">FAQ</div>
+<h2 class="section-title">Common Questions</h2>
+<div class="faq-list">
+<div class="faq-item">
+<button class="faq-question">
+Will these platforms really accept Nigerian users?
+<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+</button>
+<div class="faq-answer">
+<p>Yes. All 6 platforms listed in the course currently accept registrations from Nigeria. We verify each platform's status regularly and update the course accordingly with lifetime access.</p>
+</div>
+</div>
+<div class="faq-item">
+<button class="faq-question">
+Do I need any special skills or experience?
+<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+</button>
+<div class="faq-answer">
+<p>No prior AI experience is required. The course includes beginner-friendly guides for each platform. Basic English comprehension and a computer with internet access are all you need to get started.</p>
+</div>
+</div>
+<div class="faq-item">
+<button class="faq-question">
+How do I receive payments in Nigeria?
+<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+</button>
+<div class="faq-answer">
+<p>The course includes a detailed withdrawal guide covering PayPal, Payoneer, Wise, and direct bank transfer options. You will learn exactly how to convert your USD earnings to Naira in your Nigerian bank account.</p>
+</div>
+</div>
+<div class="faq-item">
+<button class="faq-question">
+How soon can I start earning?
+<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+</button>
+<div class="faq-answer">
+<p>Most students get accepted to at least one platform within 3-7 days of applying. Earnings typically begin within the first week of completing training tasks. Some platforms pay weekly, others bi-weekly or monthly.</p>
+</div>
+</div>
+<div class="faq-item">
+<button class="faq-question">
+Is this a one-time payment or subscription?
+<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+</button>
+<div class="faq-answer">
+<p>This is a one-time payment of ₦10,000 with lifetime access. There are no recurring fees, no hidden charges, and no upsells. You get all current content plus free updates forever.</p>
+</div>
+</div>
+<div class="faq-item">
+<button class="faq-question">
+What if I do not like the course?
+<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+</button>
+<div class="faq-answer">
+<p>We offer a full 30-day money-back guarantee. If you are not satisfied for any reason, simply email us within 30 days of purchase and we will refund your ₦10,000 — no questions asked, no hassle.</p>
+</div>
+</div>
+</div>
+</section>
+
+<footer id="footer">
+<p>AI Trainer Income. All rights reserved.</p>
+</footer>
+
+</div>
+
+<div class="toast-container" id="toastContainer"></div>
+
+<div class="sticky-cta" id="stickyCta">
+<div class="sticky-info">
+<div class="sticky-price">
+<span class="old">₦25,000</span>
+<strong>₦10,000</strong>
+</div>
+<div class="sticky-slots">
+Only <span id="stickySlots">10</span> spots left
+</div>
+</div>
+<a href="https://selar.com/bh118m874i" class="btn-primary" onclick="trackCheckout(event)">
+Get Access
+<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+</a>
+</div>
+
+<script>
+function initTimer() {
+    const now = Date.now();
+    let endTime = localStorage.getItem('aitrainer_endTime');
+    if (!endTime || now > parseInt(endTime)) {
+        endTime = now + 24 * 60 * 60 * 1000;
+        localStorage.setItem('aitrainer_endTime', endTime);
+    }
+    endTime = parseInt(endTime);
+
+    function updateTimer() {
+        const remaining = Math.max(0, endTime - Date.now());
+        if (remaining === 0) {
+            endTime = Date.now() + 24 * 60 * 60 * 1000;
+            localStorage.setItem('aitrainer_endTime', endTime);
+        }
+        const hrs = Math.floor(remaining / (1000 * 60 * 60));
+        const mins = Math.floor((remaining % (1000 * 60 * 60)) / (1000 * 60));
+        const secs = Math.floor((remaining % (1000 * 60)) / 1000);
+        const str = String(hrs).padStart(2,'0') + ':' + String(mins).padStart(2,'0') + ':' + String(secs).padStart(2,'0');
+        document.getElementById('topTimer').textContent = str;
+        document.getElementById('finalTimer').textContent = str;
+    }
+    updateTimer();
+    setInterval(updateTimer, 1000);
+}
+
+function initSlots() {
+    let slots = localStorage.getItem('aitrainer_slots');
+    let lastUpdate = localStorage.getItem('aitrainer_slotsLastUpdate');
+    const now = Date.now();
+    if (!slots || !lastUpdate) {
+        slots = 10;
+        lastUpdate = now;
+        localStorage.setItem('aitrainer_slots', slots);
+        localStorage.setItem('aitrainer_slotsLastUpdate', lastUpdate);
+    } else {
+        slots = parseInt(slots);
+        lastUpdate = parseInt(lastUpdate);
+        const elapsed = Math.floor((now - lastUpdate) / 1000);
+        const drops = Math.floor(elapsed / 45);
+        slots = Math.max(1, slots - drops);
+        if (slots <= 1) slots = 10;
+        localStorage.setItem('aitrainer_slots', slots);
+        localStorage.setItem('aitrainer_slotsLastUpdate', now);
+    }
+
+    function updateSlotsDisplay() {
+        document.getElementById('topSlots').textContent = slots;
+        document.getElementById('finalSlots').textContent = slots;
+        document.getElementById('stickySlots').textContent = slots;
+    }
+    updateSlotsDisplay();
+
+    setInterval(function() {
+        slots--;
+        if (slots < 1) slots = 10;
+        localStorage.setItem('aitrainer_slots', slots);
+        localStorage.setItem('aitrainer_slotsLastUpdate', Date.now());
+        updateSlotsDisplay();
+    }, 45000);
+}
+
+var toastNames = [
+    {name: 'Titi', city: 'Lagos'},
+    {name: 'Alimi', city: 'Kano'},
+    {name: 'Chinedu', city: 'Enugu'},
+    {name: 'Fatima', city: 'Abuja'},
+    {name: 'David', city: 'Ibadan'},
+    {name: 'Blessing', city: 'Port Harcourt'},
+    {name: 'Adeola', city: 'Lagos'},
+    {name: 'Yusuf', city: 'Kaduna'},
+    {name: 'Ngozi', city: 'Onitsha'},
+    {name: 'Emmanuel', city: 'Benin City'},
+    {name: 'Zainab', city: 'Ilorin'},
+    {name: 'Oluwaseun', city: 'Abeokuta'},
+];
+
+function showToast() {
+    var person = toastNames[Math.floor(Math.random() * toastNames.length)];
+    var container = document.getElementById('toastContainer');
+    var toast = document.createElement('div');
+    toast.className = 'toast';
+    var initials = person.name.split(' ').map(function(n) { return n[0]; }).join('');
+    toast.innerHTML = '<div class="toast-avatar">' + initials + '</div><div class="toast-text"><strong>' + person.name + '</strong> from ' + person.city + '<br><span>just took a spot!</span></div>';
+    container.appendChild(toast);
+    setTimeout(function() {
+        toast.classList.add('removing');
+        setTimeout(function() {
+            if (toast.parentNode) toast.parentNode.removeChild(toast);
+        }, 400);
+    }, 5000);
+}
+
+function initToasts() {
+    setTimeout(showToast, 3000);
+    setInterval(function() {
+        var delay = 20000 + Math.random() * 15000;
+        setTimeout(showToast, delay);
+    }, 20000 + Math.random() * 15000);
+}
+
+function initStickyCta() {
+    var sticky = document.getElementById('stickyCta');
+    var footer = document.getElementById('footer');
+    var shown = false;
+    window.addEventListener('scroll', function() {
+        var scrollPercent = window.scrollY / (document.body.scrollHeight - window.innerHeight);
+        var footerTop = footer.getBoundingClientRect().top;
+        var nearFooter = footerTop < window.innerHeight + 100;
+        if (scrollPercent > 0.35 && !nearFooter && !shown) {
+            sticky.classList.add('visible');
+            shown = true;
+        } else if ((scrollPercent <= 0.35 || nearFooter) && shown) {
+            sticky.classList.remove('visible');
+            shown = false;
+        }
+    });
+}
+
+function initFaq() {
+    var items = document.querySelectorAll('.faq-item');
+    items.forEach(function(item) {
+        var btn = item.querySelector('.faq-question');
+        btn.addEventListener('click', function() {
+            var isOpen = item.classList.contains('open');
+            items.forEach(function(i) { i.classList.remove('open'); });
+            if (!isOpen) item.classList.add('open');
+        });
+    });
+}
+
+function trackCheckout(e) {
+    if (typeof fbq !== 'undefined') {
+        fbq('track', 'InitiateCheckout');
+    }
+}
+
+function trackPurchase() {
+    if (typeof fbq !== 'undefined') {
+        fbq('track', 'Purchase', {value: 10000.00, currency: 'NGN'});
+        fbq('track', 'Lead');
+    }
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    initTimer();
+    initSlots();
+    initToasts();
+    initStickyCta();
+    initFaq();
+});
+
+// Exit Intent Popup
+var exitShown = false;
+var exitOverlay = document.getElementById('exitOverlay');
+var exitClose = document.getElementById('exitClose');
+
+function showExitPopup() {
+    if (exitShown) return;
+    exitShown = true;
+    exitOverlay.classList.add('active');
+    document.body.style.overflow = 'hidden';
+}
+
+function hideExitPopup() {
+    exitOverlay.classList.remove('active');
+    document.body.style.overflow = '';
+}
+
+// Detect mouse leaving viewport toward top (desktop)
+document.addEventListener('mouseout', function(e) {
+    if (e.clientY < 10 && !exitShown) {
+        showExitPopup();
+    }
+});
+
+// Close on X click
+exitClose.addEventListener('click', hideExitPopup);
+
+// Close on overlay click
+exitOverlay.addEventListener('click', function(e) {
+    if (e.target === exitOverlay) hideExitPopup();
+});
+
+// Close on Escape key
+document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape' && exitOverlay.classList.contains('active')) {
+        hideExitPopup();
+    }
+});
+
+// Sync exit popup timer and slots with main page
+setInterval(function() {
+    var timerEl = document.getElementById('topTimer');
+    var slotsEl = document.getElementById('topSlots');
+    var exitTimer = document.getElementById('exitTimer');
+    var exitSlots = document.getElementById('exitSlots');
+    if (exitTimer && timerEl) exitTimer.textContent = timerEl.textContent;
+    if (exitSlots && slotsEl) exitSlots.textContent = slotsEl.textContent;
+}, 1000);
+
+</script>
+
+<!-- Exit Intent Popup -->
+<div class="exit-overlay" id="exitOverlay">
+<div class="exit-popup">
+<button class="exit-close" id="exitClose" aria-label="Close">&times;</button>
+<div class="exit-icon">
+<svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+</div>
+<h3>Wait — Your Discount Expires Soon</h3>
+<p>The ₦10,000 price is only available for <strong id="exitTimer">23:59:59</strong> more. After that, it goes back to ₦25,000.</p>
+<div class="exit-slots">Only <span id="exitSlots">10</span> spots left at this price</div>
+<a href="https://selar.com/bh118m874i" class="btn-primary" onclick="trackCheckout(event)">
+Claim My Spot Now
+<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+</a>
+<p class="exit-guarantee">30-day money-back guarantee</p>
+</div>
+</div>
+
+</body>
+</html>
